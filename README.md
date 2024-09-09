@@ -13,7 +13,7 @@ I’m a data analyst and aspiring researcher with experience in **game analytics
 - **Areas of Expertise**: Data Analysis, Machine Learning, Sales & Market Analysis, Game Analytics, ETL Processes, Causal Inference <br>
 
 ### Let's Connect!
-📝 [Portfolio](https://portfolio-hyejin.vercel.app/)
+📝 [Portfolio](https://portfolio-hyejin.vercel.app/)<br>
 📧 Email: whj0210@gmail.com
 
 
