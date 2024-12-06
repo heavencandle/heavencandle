@@ -1,8 +1,8 @@
 ### Hi, I'm Hyejin Won👋
 #### About ME
-I’m a data analyst and aspiring researcher with experience in **game analytics, e-commerce**, and **AI model development**. My passion lies in solving complex problems and improving systems by integrating concepts from various fields.<br>
+I’m a data scientist and aspiring researcher with experience in **game analytics, e-commerce**, and **AI model development**. My passion lies in solving complex problems and improving systems by integrating concepts from various fields.<br>
 <br>
-- 🔭 Currently working at **Krafton PUBG** as a Data Analyst<br>
+- 🔭 Currently working at **Krafton PUBG** as a Data Scientist<br>
 - 🎯 Interested in **AI, machine learning, causal inference**, and **Python development**<br>
 - 📚 Pursuing a deeper understanding of how technology can reshape our daily lives<br>
 - 🌱 Always eager to learn and apply new methods to improve decision-making processes<br>
